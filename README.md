@@ -14,9 +14,9 @@
 
 <div class="screenshots">
     <h2 class="section-title">📸 Screenshots</h2>
-    <img src="	https://turbocharge.rebootns.com:2083/cpsess420612…2fzeuslkxy%2fpublic_ftp%2fimages/Screenshot_1.png" alt="Screenshot 1" class="screenshot">
+    <img src="https://raw.githubusercontent.com/dumiduzee/private_images/main/images/Screenshot_2.png?token=GHSAT0AAAAAACVMV4LMFQ66OLKFOKXTZHMKZVGLFKA" alt="Screenshot 1" class="screenshot">
     <p>Description of Screenshot 1</p>
-    <img src="screenshots/screenshot2.png" alt="Screenshot 2" class="screenshot">
+    <img src="https://raw.githubusercontent.com/dumiduzee/private_images/main/images/Screenshot_1.png?token=GHSAT0AAAAAACVMV4LM2A3VSBBPSVOXNFWAZVGLFCA" alt="Screenshot 2" class="screenshot">
     <p>Description of Screenshot 2</p>
 </div>
 
