@@ -3,37 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Password Hashed Registration App</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        .header {
-            text-align: center;
-        }
-        .header h1 {
-            font-size: 2.5em;
-        }
-        .features, .setup, .code-overview, .contributing, .license {
-            margin: 20px 0;
-        }
-        .screenshot {
-            display: block;
-            margin: 10px auto;
-            max-width: 100%;
-        }
-        .section-title {
-            font-size: 1.8em;
-            margin-bottom: 10px;
-        }
-        .code {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            margin: 10px 0;
-        }
-    </style>
+   
 </head>
 <body>
 
