@@ -116,25 +116,6 @@ def validator():
     except mysql.connector.Error as err:
         mb.showerror("Error", f"Database Error: {err}")</code></pre>
 
-    <h3>GUI Elements</h3>
-    <pre class="code"><code>label = ctk.CTkLabel(root, text="Register", font=("Arial", 20))
-label.pack(pady=10)
-
-username = ctk.CTkEntry(root, width=200, placeholder_text="Username")
-username.pack(pady=10)
-
-email = ctk.CTkEntry(root, width=200, placeholder_text="Email")
-email.pack(pady=10)
-
-password = ctk.CTkEntry(root, width=200, placeholder_text="Password", show="*")
-password.pack(pady=10)
-
-confirmPass = ctk.CTkEntry(root, width=200, placeholder_text="Confirm Password", show="*")
-confirmPass.pack(pady=10)
-
-register = ctk.CTkButton(root, text="Register", width=200, command=passChecker)
-register.pack(pady=10)</code></pre>
-</div>
 
 <div class="contributing">
     <h2 class="section-title">🤝 Contributing</h2>
