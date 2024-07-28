@@ -14,7 +14,7 @@
 
 <div class="screenshots">
     <h2 class="section-title">📸 Screenshots</h2>
-    <img src="screenshots/screenshot1.png" alt="Screenshot 1" class="screenshot">
+    <img src="	https://turbocharge.rebootns.com:2083/cpsess420612…2fzeuslkxy%2fpublic_ftp%2fimages/Screenshot_1.png" alt="Screenshot 1" class="screenshot">
     <p>Description of Screenshot 1</p>
     <img src="screenshots/screenshot2.png" alt="Screenshot 2" class="screenshot">
     <p>Description of Screenshot 2</p>
